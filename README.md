@@ -57,5 +57,5 @@ Algonive_Sales_Data/
 ---
 
 ### 📈 Sales Forecasting Dashboard (15 Days)
-![Sales Forecasting](Sales_Forecasting.png)
+![Sales Forecasting](Sales_Forcasting.png)
 
